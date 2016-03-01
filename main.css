@@ -1,0 +1,24 @@
+body {
+	text-align: center;
+	background-image: url('http://www.fathershouseonline.com/images/geometric-background.png');
+
+}
+
+h1 {
+	padding-top: 5%;
+	font-family: 'Megrim', cursive; 
+	font-size: 3em;
+}
+
+h2 {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+p {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+img {
+	height: 650px;
+	max-height: 30%;
+}
